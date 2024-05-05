@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/restore.js",
+  "bin": {
+
+  },
   "scripts": {
     "backup": "node src/backup.js",
     "restore": "node src/restore.js"
